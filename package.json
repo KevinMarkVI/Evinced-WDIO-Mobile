@@ -1,0 +1,26 @@
+{
+    "name": "webdriverio-tests",
+    "version": "0.1.0",
+    "private": true,
+    "devDependencies": {
+        "@babel/core": "^7.17.9",
+        "@babel/preset-env": "^7.16.11",
+        "@babel/register": "^7.17.7",
+        "@wdio/browserstack-service": "^7.19.7",
+        "@wdio/cli": "^7.19.5",
+        "@wdio/cucumber-framework": "^7.19.5",
+        "@wdio/local-runner": "^7.19.5",
+        "@wdio/spec-reporter": "^7.19.5",
+        "chromedriver": "^100.0.0",
+        "wdio-chromedriver-service": "^7.3.2"
+    },
+    "scripts": {
+        "wdio": "wdio run wdio.conf.js"
+    },
+    "dependencies": {
+        "@evinced/wdio-mobile-sdk": "./evinced-wdio-mobile-sdk-0.2.0.tgz",
+        "@wdio/appium-service": "^7.19.5",
+        "appium": "^1.22.3",
+        "dotenv": "^16.0.0"
+    }
+}

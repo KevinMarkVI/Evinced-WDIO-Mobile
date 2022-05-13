@@ -1,0 +1,3262 @@
+[
+  {
+    "createdAt": "2022-05-13T16:41:38.276642Z",
+    "id": "907c4d99-c2d6-461b-84c9-3aa657b1b5f2",
+    "elements": [
+      {
+        "id": "d35572f1-151d-4cf5-8597-73e7242f3625",
+        "index": 1,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 44,
+              "width": 41,
+              "x": 8,
+              "y": 47
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "cdc7aa1e-bbd1-4b62-82d1-6d18993b9efb",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "d35572f1-151d-4cf5-8597-73e7242f3625",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "d35572f1-151d-4cf5-8597-73e7242f3625",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      }
+    ],
+    "rootBounds": {
+      "height": 844,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "total": 1
+  },
+  {
+    "createdAt": "2022-05-13T16:41:41.144690Z",
+    "id": "423fa2cf-d039-449c-a46e-c23473a9968f",
+    "elements": [
+      {
+        "id": "6befaeff-7e8e-4d75-aefe-f2f74da27d5c",
+        "index": 7,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 45,
+              "width": 42,
+              "x": 174,
+              "y": 762
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "088f6f54-6c21-46cc-b3c3-ff0c83eb534f",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "6befaeff-7e8e-4d75-aefe-f2f74da27d5c",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "6befaeff-7e8e-4d75-aefe-f2f74da27d5c",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "c3e05b14-8266-40f3-b51e-11218000e908",
+        "index": 8,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 26,
+              "width": 26,
+              "x": 320,
+              "y": 771
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "7283a0e9-e0f3-45b7-9ccb-6b82cd2dd08b",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "share",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "share",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "c3e05b14-8266-40f3-b51e-11218000e908",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "c3e05b14-8266-40f3-b51e-11218000e908",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          },
+          {
+            "coordinates": {
+              "height": 26,
+              "width": 26,
+              "x": 320,
+              "y": 771
+            },
+            "description": "Tappable area of this element is too small",
+            "id": "45accb30-2398-4fa5-aa2e-155439b8f2fc",
+            "metadata": {
+              "expectedHeight": 44,
+              "actualHeight": 26,
+              "actualWidth": 36,
+              "expectedWidth": 44
+            },
+            "severity": {
+              "id": "5bd03118-5883-4f43-8831-1544af3afe7c",
+              "name": "Serious"
+            },
+            "accessibilityIdentifier": "share",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "share",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "Tappable area of this element is too small",
+            "issueType": {
+              "id": "69ab72aa-59be-43ad-b622-4bb686aace81",
+              "name": "Tappable Area"
+            },
+            "elementId": "c3e05b14-8266-40f3-b51e-11218000e908",
+            "name": "Tappable Area",
+            "nodeId": "c3e05b14-8266-40f3-b51e-11218000e908",
+            "problemTypeId": "69ab72aa-59be-43ad-b622-4bb686aace81"
+          }
+        ]
+      },
+      {
+        "id": "5edb15c6-9e4a-4fbb-9362-26b7b915ee17",
+        "index": 2,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 40,
+              "width": 40,
+              "x": 334,
+              "y": 49
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "27f6b2c0-8bae-4c0f-a474-695c1332fb9a",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "5edb15c6-9e4a-4fbb-9362-26b7b915ee17",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "5edb15c6-9e4a-4fbb-9362-26b7b915ee17",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "2f210f8e-ffbf-4e80-911b-135b089973ac",
+        "index": 6,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 36,
+              "width": 90,
+              "x": 12,
+              "y": 766
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "27a7c2bd-2c2d-44b3-b209-dd24e0503062",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "logo",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "logo",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "2f210f8e-ffbf-4e80-911b-135b089973ac",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "2f210f8e-ffbf-4e80-911b-135b089973ac",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "82693805-5508-4f3d-97c7-30f47197d799",
+        "index": 1,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 44,
+              "width": 44,
+              "x": 0,
+              "y": 47
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "ddc1ab5d-0a16-4a27-9463-7e5e881739b6",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "Back",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "Back",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "82693805-5508-4f3d-97c7-30f47197d799",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "82693805-5508-4f3d-97c7-30f47197d799",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "693fa706-3fcd-4811-be07-e4834b865ed5",
+        "index": 5,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 19,
+              "width": 318,
+              "x": 36,
+              "y": 486
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "7a4801ca-cb70-43d9-90c5-705b4dc9cc01",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "Volume",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "Volume",
+            "className": null,
+            "elementType": "Slider",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "693fa706-3fcd-4811-be07-e4834b865ed5",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "693fa706-3fcd-4811-be07-e4834b865ed5",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "9378772c-98a7-4b21-86f6-29b6224c39d3",
+        "index": 9,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 22,
+              "width": 22,
+              "x": 356,
+              "y": 775
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "9dee61c3-4b44-4f87-af4e-5d4f5d9fcbea",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "More Info",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "More Info",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "9378772c-98a7-4b21-86f6-29b6224c39d3",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "9378772c-98a7-4b21-86f6-29b6224c39d3",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          },
+          {
+            "coordinates": {
+              "height": 22,
+              "width": 22,
+              "x": 356,
+              "y": 775
+            },
+            "description": "Tappable area of this element is too small",
+            "id": "34512bd3-1a5f-49b0-add8-e1b4222547c0",
+            "metadata": {
+              "actualHeight": 22,
+              "actualWidth": 32,
+              "expectedWidth": 44,
+              "expectedHeight": 44
+            },
+            "severity": {
+              "id": "5bd03118-5883-4f43-8831-1544af3afe7c",
+              "name": "Serious"
+            },
+            "accessibilityIdentifier": "More Info",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "More Info",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "Tappable area of this element is too small",
+            "issueType": {
+              "id": "69ab72aa-59be-43ad-b622-4bb686aace81",
+              "name": "Tappable Area"
+            },
+            "elementId": "9378772c-98a7-4b21-86f6-29b6224c39d3",
+            "name": "Tappable Area",
+            "nodeId": "9378772c-98a7-4b21-86f6-29b6224c39d3",
+            "problemTypeId": "69ab72aa-59be-43ad-b622-4bb686aace81"
+          }
+        ]
+      },
+      {
+        "id": "6466c3f2-0661-4e52-9ccf-f17ae30eac81",
+        "index": 4,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 45,
+              "width": 45,
+              "x": 201,
+              "y": 408
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "d19ebb7a-6a88-476b-bf46-276079552364",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "btn stop",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "btn stop",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "6466c3f2-0661-4e52-9ccf-f17ae30eac81",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "6466c3f2-0661-4e52-9ccf-f17ae30eac81",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "9a44ae96-977d-4254-85e7-c20a52848747",
+        "index": 3,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 45,
+              "width": 45,
+              "x": 144,
+              "y": 408
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "b5b207df-d60d-4225-8b8f-05a2ccae25f6",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "btn play",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "btn play",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "9a44ae96-977d-4254-85e7-c20a52848747",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "9a44ae96-977d-4254-85e7-c20a52848747",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      }
+    ],
+    "rootBounds": {
+      "height": 844,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "total": 11
+  },
+  {
+    "createdAt": "2022-05-13T16:41:44.558Z",
+    "id": "fde8291b-abf4-4e1f-b880-89e540b6e4c4",
+    "elements": [
+      {
+        "id": "68cc0231-0b10-467c-bab4-6508639809be",
+        "index": 3,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 34,
+              "width": 350,
+              "x": 40,
+              "y": 771
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "b083b0fa-9e93-4eb4-a18b-0912bed9e975",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "nowPlaying",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "Absolute Country Hits: Joy of My Life - Chris Stapleton",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "68cc0231-0b10-467c-bab4-6508639809be",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "68cc0231-0b10-467c-bab4-6508639809be",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "26c3d427-fc2b-4670-a269-a668acb58ca9",
+        "index": 1,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 44,
+              "width": 41,
+              "x": 8,
+              "y": 47
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "57f89631-982a-406c-aa86-6faee14c39df",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "26c3d427-fc2b-4670-a269-a668acb58ca9",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "26c3d427-fc2b-4670-a269-a668acb58ca9",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "635e977c-c93c-4680-a7a0-017532f685e3",
+        "index": 2,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 44,
+              "width": 69,
+              "x": 313,
+              "y": 47
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "7b5f43db-0d6e-494c-b41a-851c469ca040",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "635e977c-c93c-4680-a7a0-017532f685e3",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "635e977c-c93c-4680-a7a0-017532f685e3",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      }
+    ],
+    "rootBounds": {
+      "height": 844,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "total": 3
+  },
+  {
+    "createdAt": "2022-05-13T16:41:47.491106Z",
+    "id": "432e9f87-e963-4846-b50e-3da3feb60f8d",
+    "elements": [
+      {
+        "id": "3487838b-dcb4-4bc9-bb96-77ea0ed1acc4",
+        "index": 1,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 44,
+              "width": 44,
+              "x": 0,
+              "y": 47
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "93dee098-7111-432e-8888-3268917e983e",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "Back",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "Back",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "3487838b-dcb4-4bc9-bb96-77ea0ed1acc4",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "3487838b-dcb4-4bc9-bb96-77ea0ed1acc4",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "c4412b07-22e1-4089-8deb-9456b6243dde",
+        "index": 2,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 40,
+              "width": 40,
+              "x": 334,
+              "y": 49
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "128f2944-7fb2-49f0-ab5e-dcbbc766bf45",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "c4412b07-22e1-4089-8deb-9456b6243dde",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "c4412b07-22e1-4089-8deb-9456b6243dde",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "45813bcf-72fd-4d47-9447-ed0ecddbff9c",
+        "index": 4,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 45,
+              "width": 45,
+              "x": 201,
+              "y": 408
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "c5df30b6-2e1b-4322-b65e-7f4a20a9bbf4",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "btn stop",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "btn stop",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "45813bcf-72fd-4d47-9447-ed0ecddbff9c",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "45813bcf-72fd-4d47-9447-ed0ecddbff9c",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "dc66d576-e63f-454e-bc99-76fb9956fba0",
+        "index": 9,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 26,
+              "width": 26,
+              "x": 320,
+              "y": 771
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "00f34d89-38fa-4c96-b293-7d753352ea91",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "share",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "share",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "dc66d576-e63f-454e-bc99-76fb9956fba0",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "dc66d576-e63f-454e-bc99-76fb9956fba0",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          },
+          {
+            "coordinates": {
+              "height": 26,
+              "width": 26,
+              "x": 320,
+              "y": 771
+            },
+            "description": "Tappable area of this element is too small",
+            "id": "09ea6580-9206-416d-9533-e8157ae20cba",
+            "metadata": {
+              "actualHeight": 26,
+              "actualWidth": 36,
+              "expectedWidth": 44,
+              "expectedHeight": 44
+            },
+            "severity": {
+              "id": "5bd03118-5883-4f43-8831-1544af3afe7c",
+              "name": "Serious"
+            },
+            "accessibilityIdentifier": "share",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "share",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "Tappable area of this element is too small",
+            "issueType": {
+              "id": "69ab72aa-59be-43ad-b622-4bb686aace81",
+              "name": "Tappable Area"
+            },
+            "elementId": "dc66d576-e63f-454e-bc99-76fb9956fba0",
+            "name": "Tappable Area",
+            "nodeId": "dc66d576-e63f-454e-bc99-76fb9956fba0",
+            "problemTypeId": "69ab72aa-59be-43ad-b622-4bb686aace81"
+          }
+        ]
+      },
+      {
+        "id": "5ee994d9-2c97-4646-bffb-75c78bbdb017",
+        "index": 6,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 34,
+              "width": 152,
+              "x": 119,
+              "y": 537
+            },
+            "description": "Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds. The minimum contrast for a small font size (less than 24px) is 4.5:1 and 3:1 when the font size is 24px or higher.",
+            "id": "99ef6272-1e46-447f-89e6-c3222d66b11a",
+            "metadata": {
+              "minRatio": 4.5,
+              "background": "#43474b",
+              "color": "#767c80",
+              "ratio": 2.215
+            },
+            "severity": {
+              "id": "5bd03118-5883-4f43-8831-1544af3afe7c",
+              "name": "Serious"
+            },
+            "accessibilityIdentifier": "Error Playing",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "Error Playing",
+            "className": null,
+            "elementType": "StaticText",
+            "contentDescription": null,
+            "summary": "Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds. The minimum contrast for a small font size (less than 24px) is 4.5:1 and 3:1 when the font size is 24px or higher.",
+            "issueType": {
+              "id": "094ee482-d97a-474c-b8eb-1d8e787e1144",
+              "name": "Color Contrast"
+            },
+            "elementId": "5ee994d9-2c97-4646-bffb-75c78bbdb017",
+            "name": "Color Contrast",
+            "nodeId": "5ee994d9-2c97-4646-bffb-75c78bbdb017",
+            "problemTypeId": "094ee482-d97a-474c-b8eb-1d8e787e1144"
+          }
+        ]
+      },
+      {
+        "id": "e6ff40bf-9ec8-4b64-a313-4ff6db4101d4",
+        "index": 3,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 45,
+              "width": 45,
+              "x": 144,
+              "y": 408
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "51504c08-ad67-4f42-89a5-56d03145b3f2",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "btn play",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "btn play",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "e6ff40bf-9ec8-4b64-a313-4ff6db4101d4",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "e6ff40bf-9ec8-4b64-a313-4ff6db4101d4",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "c4f69cac-5ed4-4f39-9c36-b0ad403411f5",
+        "index": 10,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 22,
+              "width": 22,
+              "x": 356,
+              "y": 775
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "d6995399-c12d-4d25-a6f7-9815908d1644",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "More Info",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "More Info",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "c4f69cac-5ed4-4f39-9c36-b0ad403411f5",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "c4f69cac-5ed4-4f39-9c36-b0ad403411f5",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          },
+          {
+            "coordinates": {
+              "height": 22,
+              "width": 22,
+              "x": 356,
+              "y": 775
+            },
+            "description": "Tappable area of this element is too small",
+            "id": "a8c4c792-3181-4d94-a6d2-04f0c85ac2fd",
+            "metadata": {
+              "actualHeight": 22,
+              "actualWidth": 32,
+              "expectedHeight": 44,
+              "expectedWidth": 44
+            },
+            "severity": {
+              "id": "5bd03118-5883-4f43-8831-1544af3afe7c",
+              "name": "Serious"
+            },
+            "accessibilityIdentifier": "More Info",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "More Info",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "Tappable area of this element is too small",
+            "issueType": {
+              "id": "69ab72aa-59be-43ad-b622-4bb686aace81",
+              "name": "Tappable Area"
+            },
+            "elementId": "c4f69cac-5ed4-4f39-9c36-b0ad403411f5",
+            "name": "Tappable Area",
+            "nodeId": "c4f69cac-5ed4-4f39-9c36-b0ad403411f5",
+            "problemTypeId": "69ab72aa-59be-43ad-b622-4bb686aace81"
+          }
+        ]
+      },
+      {
+        "id": "42534424-0f65-4891-8d5b-4556ad209a89",
+        "index": 5,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 19,
+              "width": 318,
+              "x": 36,
+              "y": 486
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "e6152c6b-d348-4d2d-9800-de9487476b85",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "Volume",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "Volume",
+            "className": null,
+            "elementType": "Slider",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "42534424-0f65-4891-8d5b-4556ad209a89",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "42534424-0f65-4891-8d5b-4556ad209a89",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "c8b85162-4012-41a7-9aaf-b616ea93f8f5",
+        "index": 8,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 45,
+              "width": 42,
+              "x": 174,
+              "y": 762
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "369adee8-215b-4e5d-8144-35a4718f577b",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "c8b85162-4012-41a7-9aaf-b616ea93f8f5",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "c8b85162-4012-41a7-9aaf-b616ea93f8f5",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "a9407e82-49e5-446e-8457-4ec38539f260",
+        "index": 7,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 36,
+              "width": 90,
+              "x": 12,
+              "y": 766
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "6efbb76d-5b14-47ac-bdf4-28095b9e4ccb",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "logo",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "logo",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "a9407e82-49e5-446e-8457-4ec38539f260",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "a9407e82-49e5-446e-8457-4ec38539f260",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      }
+    ],
+    "rootBounds": {
+      "height": 844,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "total": 12
+  },
+  {
+    "createdAt": "2022-05-13T16:41:50.879981Z",
+    "id": "042ab3cc-1698-4fa4-845a-dca6005ba19d",
+    "elements": [
+      {
+        "id": "76dc28e6-aa90-40a1-bdc9-43d51a0b785b",
+        "index": 1,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 44,
+              "width": 41,
+              "x": 8,
+              "y": 47
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "6b9d4256-ce9b-42e3-ab46-cd5a1b783deb",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "76dc28e6-aa90-40a1-bdc9-43d51a0b785b",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "76dc28e6-aa90-40a1-bdc9-43d51a0b785b",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "f0043bd5-a892-4863-b307-520e0fcb0bbf",
+        "index": 2,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 44,
+              "width": 69,
+              "x": 313,
+              "y": 47
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "2e700633-1e08-4774-acb5-192c7b87f856",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "f0043bd5-a892-4863-b307-520e0fcb0bbf",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "f0043bd5-a892-4863-b307-520e0fcb0bbf",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "0115b47d-5031-42fa-96c7-66c306bee733",
+        "index": 3,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 34,
+              "width": 350,
+              "x": 40,
+              "y": 771
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "df455361-ec0f-474d-adf0-82f7197cef15",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "nowPlaying",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "Newport Folk Radio: Now playing ...",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "0115b47d-5031-42fa-96c7-66c306bee733",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "0115b47d-5031-42fa-96c7-66c306bee733",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      }
+    ],
+    "rootBounds": {
+      "height": 844,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "total": 3
+  },
+  {
+    "createdAt": "2022-05-13T16:41:53.614138Z",
+    "id": "044e7b45-2c53-4de7-b5bc-0c573d494cb4",
+    "elements": [
+      {
+        "id": "35d45e2d-303e-4a63-8e58-eea03ebfd968",
+        "index": 4,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 45,
+              "width": 45,
+              "x": 201,
+              "y": 408
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "9f76cc3b-5de5-4508-b26f-46b7ebffc537",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "btn stop",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "btn stop",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "35d45e2d-303e-4a63-8e58-eea03ebfd968",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "35d45e2d-303e-4a63-8e58-eea03ebfd968",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "aad16739-95c6-4a30-ad88-7b9522d357df",
+        "index": 6,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 36,
+              "width": 90,
+              "x": 12,
+              "y": 766
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "8282ed65-3345-4a14-9c14-1a5cd65cf307",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "logo",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "logo",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "aad16739-95c6-4a30-ad88-7b9522d357df",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "aad16739-95c6-4a30-ad88-7b9522d357df",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "3b1bb6a1-0702-4cdd-90d0-d7b26b973c8d",
+        "index": 3,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 45,
+              "width": 45,
+              "x": 144,
+              "y": 408
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "61399209-67f7-4132-aa18-b7920ad68078",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "btn play",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "btn play",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "3b1bb6a1-0702-4cdd-90d0-d7b26b973c8d",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "3b1bb6a1-0702-4cdd-90d0-d7b26b973c8d",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "1280db2d-d011-48d7-8037-97c256cc619b",
+        "index": 8,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 26,
+              "width": 26,
+              "x": 320,
+              "y": 771
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "703e8abc-f9b8-465c-9128-20f7acbac4bf",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "share",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "share",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "1280db2d-d011-48d7-8037-97c256cc619b",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "1280db2d-d011-48d7-8037-97c256cc619b",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          },
+          {
+            "coordinates": {
+              "height": 26,
+              "width": 26,
+              "x": 320,
+              "y": 771
+            },
+            "description": "Tappable area of this element is too small",
+            "id": "d9bc9b05-fc43-4209-b8f5-fe2ed9577cdc",
+            "metadata": {
+              "expectedHeight": 44,
+              "expectedWidth": 44,
+              "actualWidth": 36,
+              "actualHeight": 26
+            },
+            "severity": {
+              "id": "5bd03118-5883-4f43-8831-1544af3afe7c",
+              "name": "Serious"
+            },
+            "accessibilityIdentifier": "share",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "share",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "Tappable area of this element is too small",
+            "issueType": {
+              "id": "69ab72aa-59be-43ad-b622-4bb686aace81",
+              "name": "Tappable Area"
+            },
+            "elementId": "1280db2d-d011-48d7-8037-97c256cc619b",
+            "name": "Tappable Area",
+            "nodeId": "1280db2d-d011-48d7-8037-97c256cc619b",
+            "problemTypeId": "69ab72aa-59be-43ad-b622-4bb686aace81"
+          }
+        ]
+      },
+      {
+        "id": "8503624f-bca1-4f23-b998-c47468bdf0de",
+        "index": 5,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 19,
+              "width": 318,
+              "x": 36,
+              "y": 486
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "9b744fec-8a7a-487e-bc86-3bdb134bfabf",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "Volume",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "Volume",
+            "className": null,
+            "elementType": "Slider",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "8503624f-bca1-4f23-b998-c47468bdf0de",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "8503624f-bca1-4f23-b998-c47468bdf0de",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "b5bd717a-f0ad-462a-8612-c3070cc5bf8a",
+        "index": 7,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 45,
+              "width": 42,
+              "x": 174,
+              "y": 762
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "f3a729eb-8db2-45e9-b08e-e87fea577b85",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "b5bd717a-f0ad-462a-8612-c3070cc5bf8a",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "b5bd717a-f0ad-462a-8612-c3070cc5bf8a",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "5eba03c0-c27d-4aa2-80a0-903b06704dbb",
+        "index": 1,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 44,
+              "width": 44,
+              "x": 0,
+              "y": 47
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "03c22410-dafe-4328-8d0e-b82c534187c5",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "Back",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "Back",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "5eba03c0-c27d-4aa2-80a0-903b06704dbb",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "5eba03c0-c27d-4aa2-80a0-903b06704dbb",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "63656428-3ae1-43af-ad0f-824bdcdf8fd6",
+        "index": 2,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 40,
+              "width": 40,
+              "x": 334,
+              "y": 49
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "4e5cb90f-ea23-4e58-9be9-afba89676876",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "63656428-3ae1-43af-ad0f-824bdcdf8fd6",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "63656428-3ae1-43af-ad0f-824bdcdf8fd6",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "570a81d3-9410-4110-bb10-68d296f9e04e",
+        "index": 9,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 22,
+              "width": 22,
+              "x": 356,
+              "y": 775
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "94f4cebd-163b-44b6-a7f5-83beb23c2f33",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "More Info",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "More Info",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "570a81d3-9410-4110-bb10-68d296f9e04e",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "570a81d3-9410-4110-bb10-68d296f9e04e",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          },
+          {
+            "coordinates": {
+              "height": 22,
+              "width": 22,
+              "x": 356,
+              "y": 775
+            },
+            "description": "Tappable area of this element is too small",
+            "id": "0d263243-a326-4cdd-84e0-80a0112ff566",
+            "metadata": {
+              "actualWidth": 32,
+              "actualHeight": 22,
+              "expectedWidth": 44,
+              "expectedHeight": 44
+            },
+            "severity": {
+              "id": "5bd03118-5883-4f43-8831-1544af3afe7c",
+              "name": "Serious"
+            },
+            "accessibilityIdentifier": "More Info",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "More Info",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "Tappable area of this element is too small",
+            "issueType": {
+              "id": "69ab72aa-59be-43ad-b622-4bb686aace81",
+              "name": "Tappable Area"
+            },
+            "elementId": "570a81d3-9410-4110-bb10-68d296f9e04e",
+            "name": "Tappable Area",
+            "nodeId": "570a81d3-9410-4110-bb10-68d296f9e04e",
+            "problemTypeId": "69ab72aa-59be-43ad-b622-4bb686aace81"
+          }
+        ]
+      }
+    ],
+    "rootBounds": {
+      "height": 844,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "total": 11
+  },
+  {
+    "createdAt": "2022-05-13T16:41:56.991627Z",
+    "id": "8c79be85-a26c-4e1e-8b42-073affbf502d",
+    "elements": [
+      {
+        "id": "b08daf70-308d-4896-8ae2-34a37f06b4e0",
+        "index": 3,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 34,
+              "width": 350,
+              "x": 40,
+              "y": 771
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "a4df0a99-85c5-42b0-b12b-f61a9004f869",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "nowPlaying",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "The Rock FM: Now playing ...",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "b08daf70-308d-4896-8ae2-34a37f06b4e0",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "b08daf70-308d-4896-8ae2-34a37f06b4e0",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "cce9db97-5c36-4fa4-981a-c6a481bac22f",
+        "index": 2,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 44,
+              "width": 69,
+              "x": 313,
+              "y": 47
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "49b0b292-790f-4b9c-853d-dce805884459",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "cce9db97-5c36-4fa4-981a-c6a481bac22f",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "cce9db97-5c36-4fa4-981a-c6a481bac22f",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "9f41ccc3-6578-4e71-aaf7-b4478ea7d064",
+        "index": 1,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 44,
+              "width": 41,
+              "x": 8,
+              "y": 47
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "85d48244-826f-46bb-bd65-4328aaf3e171",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "9f41ccc3-6578-4e71-aaf7-b4478ea7d064",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "9f41ccc3-6578-4e71-aaf7-b4478ea7d064",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      }
+    ],
+    "rootBounds": {
+      "height": 844,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "total": 3
+  },
+  {
+    "createdAt": "2022-05-13T16:41:59.927725Z",
+    "id": "fde9b56e-5550-4cdb-b671-f842885757b8",
+    "elements": [
+      {
+        "id": "d1557d13-7e09-46cc-b3e3-81b0a14fbb77",
+        "index": 1,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 44,
+              "width": 44,
+              "x": 0,
+              "y": 47
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "4277d7e2-96b2-43f1-9262-071527304b05",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "Back",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "Back",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "d1557d13-7e09-46cc-b3e3-81b0a14fbb77",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "d1557d13-7e09-46cc-b3e3-81b0a14fbb77",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "91fd1959-1f9d-4386-b24b-4b5d9ccad3a0",
+        "index": 10,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 22,
+              "width": 22,
+              "x": 356,
+              "y": 775
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "ac39e37c-b79a-44bc-a176-4f977cefbb92",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "More Info",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "More Info",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "91fd1959-1f9d-4386-b24b-4b5d9ccad3a0",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "91fd1959-1f9d-4386-b24b-4b5d9ccad3a0",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          },
+          {
+            "coordinates": {
+              "height": 22,
+              "width": 22,
+              "x": 356,
+              "y": 775
+            },
+            "description": "Tappable area of this element is too small",
+            "id": "225a5c7e-6585-4244-b862-f1c9bed39c2e",
+            "metadata": {
+              "actualWidth": 32,
+              "expectedWidth": 44,
+              "actualHeight": 22,
+              "expectedHeight": 44
+            },
+            "severity": {
+              "id": "5bd03118-5883-4f43-8831-1544af3afe7c",
+              "name": "Serious"
+            },
+            "accessibilityIdentifier": "More Info",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "More Info",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "Tappable area of this element is too small",
+            "issueType": {
+              "id": "69ab72aa-59be-43ad-b622-4bb686aace81",
+              "name": "Tappable Area"
+            },
+            "elementId": "91fd1959-1f9d-4386-b24b-4b5d9ccad3a0",
+            "name": "Tappable Area",
+            "nodeId": "91fd1959-1f9d-4386-b24b-4b5d9ccad3a0",
+            "problemTypeId": "69ab72aa-59be-43ad-b622-4bb686aace81"
+          }
+        ]
+      },
+      {
+        "id": "8373a5c0-ddaf-40b6-b788-80655cc65807",
+        "index": 2,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 40,
+              "width": 40,
+              "x": 334,
+              "y": 49
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "4531b34e-743d-4dc7-bb54-15a9ccb1fbdf",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "8373a5c0-ddaf-40b6-b788-80655cc65807",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "8373a5c0-ddaf-40b6-b788-80655cc65807",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "07e71f3d-1db8-4230-ad5f-53f46b436037",
+        "index": 6,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 34,
+              "width": 266,
+              "x": 62,
+              "y": 537
+            },
+            "description": "Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds. The minimum contrast for a small font size (less than 24px) is 4.5:1 and 3:1 when the font size is 24px or higher.",
+            "id": "f76213ef-26d8-457a-9252-0e0d2569d065",
+            "metadata": {
+              "color": "#7a8084",
+              "background": "#3d4246",
+              "ratio": 2.54,
+              "minRatio": 4.5
+            },
+            "severity": {
+              "id": "5bd03118-5883-4f43-8831-1544af3afe7c",
+              "name": "Serious"
+            },
+            "accessibilityIdentifier": "Absolute Country Hits",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "Absolute Country Hits",
+            "className": null,
+            "elementType": "StaticText",
+            "contentDescription": null,
+            "summary": "Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds. The minimum contrast for a small font size (less than 24px) is 4.5:1 and 3:1 when the font size is 24px or higher.",
+            "issueType": {
+              "id": "094ee482-d97a-474c-b8eb-1d8e787e1144",
+              "name": "Color Contrast"
+            },
+            "elementId": "07e71f3d-1db8-4230-ad5f-53f46b436037",
+            "name": "Color Contrast",
+            "nodeId": "07e71f3d-1db8-4230-ad5f-53f46b436037",
+            "problemTypeId": "094ee482-d97a-474c-b8eb-1d8e787e1144"
+          }
+        ]
+      },
+      {
+        "id": "fa2c5c70-fbf2-4ca0-ad9c-49cbfef442b4",
+        "index": 3,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 45,
+              "width": 45,
+              "x": 144,
+              "y": 408
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "ca2c82de-7dca-44a6-9820-9782f80af934",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "btn play",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "btn play",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "fa2c5c70-fbf2-4ca0-ad9c-49cbfef442b4",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "fa2c5c70-fbf2-4ca0-ad9c-49cbfef442b4",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "bd1df218-7bd5-4c2d-b7f3-64c8753e4fa2",
+        "index": 4,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 45,
+              "width": 45,
+              "x": 201,
+              "y": 408
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "130d862e-1f72-4c72-b975-33d37236624b",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "btn stop",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "btn stop",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "bd1df218-7bd5-4c2d-b7f3-64c8753e4fa2",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "bd1df218-7bd5-4c2d-b7f3-64c8753e4fa2",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "c84cd620-b44d-40e3-bdb2-3865a955f834",
+        "index": 5,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 19,
+              "width": 318,
+              "x": 36,
+              "y": 486
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "a888f251-8e47-4e29-8f84-959875ab2d2d",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "Volume",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "Volume",
+            "className": null,
+            "elementType": "Slider",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "c84cd620-b44d-40e3-bdb2-3865a955f834",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "c84cd620-b44d-40e3-bdb2-3865a955f834",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "7e63eb83-a79c-4098-993d-521d9d322004",
+        "index": 7,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 36,
+              "width": 90,
+              "x": 12,
+              "y": 766
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "b9d455af-a244-40a5-aa1f-c5723abe27f1",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "logo",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "logo",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "7e63eb83-a79c-4098-993d-521d9d322004",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "7e63eb83-a79c-4098-993d-521d9d322004",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "e4dbd160-b58d-41e9-9ca6-c5f79faca16e",
+        "index": 8,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 45,
+              "width": 42,
+              "x": 174,
+              "y": 762
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "80b55c7d-4d41-429f-a009-a2d03d4c8f86",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "e4dbd160-b58d-41e9-9ca6-c5f79faca16e",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "e4dbd160-b58d-41e9-9ca6-c5f79faca16e",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "02a7f2af-d87c-4952-afcb-8e6f2f24db6c",
+        "index": 9,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 26,
+              "width": 26,
+              "x": 320,
+              "y": 771
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "f4c122af-a24b-4b40-8b31-0f2ec88c1245",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "share",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "share",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "02a7f2af-d87c-4952-afcb-8e6f2f24db6c",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "02a7f2af-d87c-4952-afcb-8e6f2f24db6c",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          },
+          {
+            "coordinates": {
+              "height": 26,
+              "width": 26,
+              "x": 320,
+              "y": 771
+            },
+            "description": "Tappable area of this element is too small",
+            "id": "6d035cab-7d4a-445c-802c-0089fc68f980",
+            "metadata": {
+              "expectedWidth": 44,
+              "actualWidth": 36,
+              "actualHeight": 26,
+              "expectedHeight": 44
+            },
+            "severity": {
+              "id": "5bd03118-5883-4f43-8831-1544af3afe7c",
+              "name": "Serious"
+            },
+            "accessibilityIdentifier": "share",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "share",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "Tappable area of this element is too small",
+            "issueType": {
+              "id": "69ab72aa-59be-43ad-b622-4bb686aace81",
+              "name": "Tappable Area"
+            },
+            "elementId": "02a7f2af-d87c-4952-afcb-8e6f2f24db6c",
+            "name": "Tappable Area",
+            "nodeId": "02a7f2af-d87c-4952-afcb-8e6f2f24db6c",
+            "problemTypeId": "69ab72aa-59be-43ad-b622-4bb686aace81"
+          }
+        ]
+      }
+    ],
+    "rootBounds": {
+      "height": 844,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "total": 12
+  },
+  {
+    "createdAt": "2022-05-13T16:42:03.346612Z",
+    "id": "12913a7b-a4a7-4624-ba93-e1c93fff0a28",
+    "elements": [
+      {
+        "id": "d3d2af2c-c778-454f-a483-640748d57e0d",
+        "index": 1,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 44,
+              "width": 41,
+              "x": 8,
+              "y": 47
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "f8860acb-7af9-42e0-b4c0-d9a609af6d09",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "d3d2af2c-c778-454f-a483-640748d57e0d",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "d3d2af2c-c778-454f-a483-640748d57e0d",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "7f05d58c-0d29-4a75-ad0d-986657eb50e9",
+        "index": 2,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 44,
+              "width": 69,
+              "x": 313,
+              "y": 47
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "6b14f811-f98c-46bc-b95c-754e731c17ab",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "7f05d58c-0d29-4a75-ad0d-986657eb50e9",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "7f05d58c-0d29-4a75-ad0d-986657eb50e9",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "38e9aa97-b810-4bf4-97e2-dace2ce9c727",
+        "index": 3,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 34,
+              "width": 350,
+              "x": 40,
+              "y": 771
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "0dd9c0c3-7318-470b-8b9b-632a08165bc2",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "nowPlaying",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "Absolute Country Hits: Somebody's Daughter - Tenille Townes",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "38e9aa97-b810-4bf4-97e2-dace2ce9c727",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "38e9aa97-b810-4bf4-97e2-dace2ce9c727",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      }
+    ],
+    "rootBounds": {
+      "height": 844,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "total": 3
+  },
+  {
+    "createdAt": "2022-05-13T16:42:06.264586Z",
+    "id": "9bcbba9a-385b-47a0-ba53-78f879d20030",
+    "elements": [
+      {
+        "id": "61759f68-e9aa-4921-9e37-c227d8d88a28",
+        "index": 6,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 34,
+              "width": 152,
+              "x": 119,
+              "y": 537
+            },
+            "description": "Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds. The minimum contrast for a small font size (less than 24px) is 4.5:1 and 3:1 when the font size is 24px or higher.",
+            "id": "a8d9a96d-5b23-4e69-a8e4-272ba42b141a",
+            "metadata": {
+              "color": "#a0a4a9",
+              "ratio": 3.738,
+              "minRatio": 4.5,
+              "background": "#43474b"
+            },
+            "severity": {
+              "id": "5bd03118-5883-4f43-8831-1544af3afe7c",
+              "name": "Serious"
+            },
+            "accessibilityIdentifier": "Error Playing",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "Error Playing",
+            "className": null,
+            "elementType": "StaticText",
+            "contentDescription": null,
+            "summary": "Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds. The minimum contrast for a small font size (less than 24px) is 4.5:1 and 3:1 when the font size is 24px or higher.",
+            "issueType": {
+              "id": "094ee482-d97a-474c-b8eb-1d8e787e1144",
+              "name": "Color Contrast"
+            },
+            "elementId": "61759f68-e9aa-4921-9e37-c227d8d88a28",
+            "name": "Color Contrast",
+            "nodeId": "61759f68-e9aa-4921-9e37-c227d8d88a28",
+            "problemTypeId": "094ee482-d97a-474c-b8eb-1d8e787e1144"
+          }
+        ]
+      },
+      {
+        "id": "29e661af-8c14-47d3-a17a-30ce76be81e5",
+        "index": 2,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 40,
+              "width": 40,
+              "x": 334,
+              "y": 49
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "3fcb7458-e533-4665-aea7-24f00f393ac1",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "29e661af-8c14-47d3-a17a-30ce76be81e5",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "29e661af-8c14-47d3-a17a-30ce76be81e5",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "b166027a-3107-4281-abf8-a406ec2fe294",
+        "index": 5,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 19,
+              "width": 318,
+              "x": 36,
+              "y": 486
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "9f1d4b02-63b3-4c38-b73c-e7862224b2a0",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "Volume",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "Volume",
+            "className": null,
+            "elementType": "Slider",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "b166027a-3107-4281-abf8-a406ec2fe294",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "b166027a-3107-4281-abf8-a406ec2fe294",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "3be9ba81-5903-4b55-8a8e-855d3a4e9991",
+        "index": 1,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 44,
+              "width": 44,
+              "x": 0,
+              "y": 47
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "eeb88c8c-5802-4ec7-a54c-99ab0abaffe1",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "Back",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "Back",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "3be9ba81-5903-4b55-8a8e-855d3a4e9991",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "3be9ba81-5903-4b55-8a8e-855d3a4e9991",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "944b34fd-95cf-484b-a770-3515a2ac3e7a",
+        "index": 3,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 45,
+              "width": 45,
+              "x": 144,
+              "y": 408
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "e7b34938-d925-45af-9dc8-c26c4227a903",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "btn play",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "btn play",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "944b34fd-95cf-484b-a770-3515a2ac3e7a",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "944b34fd-95cf-484b-a770-3515a2ac3e7a",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "3d9bcb65-1ece-491b-84aa-ea2fe24e3932",
+        "index": 4,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 45,
+              "width": 45,
+              "x": 201,
+              "y": 408
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "b649da6e-1729-4c67-b221-85b5924f9c92",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "btn stop",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "btn stop",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "3d9bcb65-1ece-491b-84aa-ea2fe24e3932",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "3d9bcb65-1ece-491b-84aa-ea2fe24e3932",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "29df4ef1-bac0-445b-8822-8583aa08f00d",
+        "index": 7,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 36,
+              "width": 90,
+              "x": 12,
+              "y": 766
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "16e6056b-c9cc-4fbd-906c-39dcc37c36c5",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "logo",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "logo",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "29df4ef1-bac0-445b-8822-8583aa08f00d",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "29df4ef1-bac0-445b-8822-8583aa08f00d",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "9093f0a3-12fa-42e8-99cb-57e32a9861b2",
+        "index": 8,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 45,
+              "width": 42,
+              "x": 174,
+              "y": 762
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "8ccfbb12-4b59-47cf-8242-0cab087965c1",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "9093f0a3-12fa-42e8-99cb-57e32a9861b2",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "9093f0a3-12fa-42e8-99cb-57e32a9861b2",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "0542ec15-4907-4e78-96cb-235cef6c0ee1",
+        "index": 9,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 26,
+              "width": 26,
+              "x": 320,
+              "y": 771
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "38971283-206f-4fef-b899-544a9f9e595e",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "share",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "share",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "0542ec15-4907-4e78-96cb-235cef6c0ee1",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "0542ec15-4907-4e78-96cb-235cef6c0ee1",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          },
+          {
+            "coordinates": {
+              "height": 26,
+              "width": 26,
+              "x": 320,
+              "y": 771
+            },
+            "description": "Tappable area of this element is too small",
+            "id": "55524148-1621-4227-899e-c314371ba79f",
+            "metadata": {
+              "expectedHeight": 44,
+              "actualHeight": 26,
+              "expectedWidth": 44,
+              "actualWidth": 36
+            },
+            "severity": {
+              "id": "5bd03118-5883-4f43-8831-1544af3afe7c",
+              "name": "Serious"
+            },
+            "accessibilityIdentifier": "share",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "share",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "Tappable area of this element is too small",
+            "issueType": {
+              "id": "69ab72aa-59be-43ad-b622-4bb686aace81",
+              "name": "Tappable Area"
+            },
+            "elementId": "0542ec15-4907-4e78-96cb-235cef6c0ee1",
+            "name": "Tappable Area",
+            "nodeId": "0542ec15-4907-4e78-96cb-235cef6c0ee1",
+            "problemTypeId": "69ab72aa-59be-43ad-b622-4bb686aace81"
+          }
+        ]
+      },
+      {
+        "id": "20f12922-005c-4ab4-ba4c-d2ac6d87f91c",
+        "index": 10,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 22,
+              "width": 22,
+              "x": 356,
+              "y": 775
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "89bba35b-b27f-45c3-afd1-60b267fb9e8f",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "More Info",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "More Info",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "20f12922-005c-4ab4-ba4c-d2ac6d87f91c",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "20f12922-005c-4ab4-ba4c-d2ac6d87f91c",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          },
+          {
+            "coordinates": {
+              "height": 22,
+              "width": 22,
+              "x": 356,
+              "y": 775
+            },
+            "description": "Tappable area of this element is too small",
+            "id": "ca91cea8-7815-4469-89f8-00a2ba3a41b4",
+            "metadata": {
+              "expectedHeight": 44,
+              "actualHeight": 22,
+              "actualWidth": 32,
+              "expectedWidth": 44
+            },
+            "severity": {
+              "id": "5bd03118-5883-4f43-8831-1544af3afe7c",
+              "name": "Serious"
+            },
+            "accessibilityIdentifier": "More Info",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "More Info",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "Tappable area of this element is too small",
+            "issueType": {
+              "id": "69ab72aa-59be-43ad-b622-4bb686aace81",
+              "name": "Tappable Area"
+            },
+            "elementId": "20f12922-005c-4ab4-ba4c-d2ac6d87f91c",
+            "name": "Tappable Area",
+            "nodeId": "20f12922-005c-4ab4-ba4c-d2ac6d87f91c",
+            "problemTypeId": "69ab72aa-59be-43ad-b622-4bb686aace81"
+          }
+        ]
+      }
+    ],
+    "rootBounds": {
+      "height": 844,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "total": 12
+  },
+  {
+    "createdAt": "2022-05-13T16:42:09.674593Z",
+    "id": "c23284ea-c06a-4655-8f2b-bfa577853464",
+    "elements": [
+      {
+        "id": "c18ffc12-531b-45a0-bb32-a3701bc0f078",
+        "index": 3,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 34,
+              "width": 350,
+              "x": 40,
+              "y": 771
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "20e834fb-dda7-467c-bf75-11781427e1e8",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "nowPlaying",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "Newport Folk Radio: Now playing ...",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "c18ffc12-531b-45a0-bb32-a3701bc0f078",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "c18ffc12-531b-45a0-bb32-a3701bc0f078",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "448211ff-74d0-4c1f-a94b-6938e4592ff5",
+        "index": 2,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 44,
+              "width": 69,
+              "x": 313,
+              "y": 47
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "371110e3-aad3-4dec-9ea4-4690e5218ead",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "448211ff-74d0-4c1f-a94b-6938e4592ff5",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "448211ff-74d0-4c1f-a94b-6938e4592ff5",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "ea42fca8-46af-42a4-8ca5-8e4130609e99",
+        "index": 1,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 44,
+              "width": 41,
+              "x": 8,
+              "y": 47
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "709e25be-7424-4eea-9305-d35f6fe83538",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "ea42fca8-46af-42a4-8ca5-8e4130609e99",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "ea42fca8-46af-42a4-8ca5-8e4130609e99",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      }
+    ],
+    "rootBounds": {
+      "height": 844,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "total": 3
+  },
+  {
+    "createdAt": "2022-05-13T16:42:12.457849Z",
+    "id": "061b5100-6f83-49b8-ab1d-a277cc00e80d",
+    "elements": [
+      {
+        "id": "31dd2815-c615-46b1-9dcf-5c9f60e18bc1",
+        "index": 2,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 40,
+              "width": 40,
+              "x": 334,
+              "y": 49
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "8a1c5ae8-a3b8-4617-b1e0-65a16630dfa3",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "31dd2815-c615-46b1-9dcf-5c9f60e18bc1",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "31dd2815-c615-46b1-9dcf-5c9f60e18bc1",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "5c733024-de31-45f8-bae0-a1751c91fca1",
+        "index": 4,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 45,
+              "width": 45,
+              "x": 201,
+              "y": 408
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "4ce74259-0fd1-4b8e-a8ec-34adf3fbc9dd",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "btn stop",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "btn stop",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "5c733024-de31-45f8-bae0-a1751c91fca1",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "5c733024-de31-45f8-bae0-a1751c91fca1",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "db615a23-f0d6-487c-88d8-2ead6b9243bb",
+        "index": 3,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 45,
+              "width": 45,
+              "x": 144,
+              "y": 408
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "fa6888b9-e436-480a-a3a9-ee1df979b4e0",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "btn play",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "btn play",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "db615a23-f0d6-487c-88d8-2ead6b9243bb",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "db615a23-f0d6-487c-88d8-2ead6b9243bb",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "ec276e0a-f819-47b6-9850-f3b13da1a9ae",
+        "index": 5,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 19,
+              "width": 318,
+              "x": 36,
+              "y": 486
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "6943b446-6616-4312-b42b-e55a68576ad5",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "Volume",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "Volume",
+            "className": null,
+            "elementType": "Slider",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "ec276e0a-f819-47b6-9850-f3b13da1a9ae",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "ec276e0a-f819-47b6-9850-f3b13da1a9ae",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "3b8c7de8-887c-440c-bc9e-43ed974b9c15",
+        "index": 6,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 34,
+              "width": 160,
+              "x": 115,
+              "y": 537
+            },
+            "description": "Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds. The minimum contrast for a small font size (less than 24px) is 4.5:1 and 3:1 when the font size is 24px or higher.",
+            "id": "8d85f7a9-3d27-43b3-b298-73af33ab8517",
+            "metadata": {
+              "background": "#3d4246",
+              "minRatio": 4.5,
+              "color": "#7c8083",
+              "ratio": 2.552
+            },
+            "severity": {
+              "id": "5bd03118-5883-4f43-8831-1544af3afe7c",
+              "name": "Serious"
+            },
+            "accessibilityIdentifier": "The Rock FM",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "The Rock FM",
+            "className": null,
+            "elementType": "StaticText",
+            "contentDescription": null,
+            "summary": "Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds. The minimum contrast for a small font size (less than 24px) is 4.5:1 and 3:1 when the font size is 24px or higher.",
+            "issueType": {
+              "id": "094ee482-d97a-474c-b8eb-1d8e787e1144",
+              "name": "Color Contrast"
+            },
+            "elementId": "3b8c7de8-887c-440c-bc9e-43ed974b9c15",
+            "name": "Color Contrast",
+            "nodeId": "3b8c7de8-887c-440c-bc9e-43ed974b9c15",
+            "problemTypeId": "094ee482-d97a-474c-b8eb-1d8e787e1144"
+          }
+        ]
+      },
+      {
+        "id": "f48e67b6-10f7-4481-8fea-0e78711c5a06",
+        "index": 8,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 45,
+              "width": 42,
+              "x": 174,
+              "y": 762
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "6e90998b-8a90-442b-8e22-4a14d2d6fe16",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "f48e67b6-10f7-4481-8fea-0e78711c5a06",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "f48e67b6-10f7-4481-8fea-0e78711c5a06",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "faaa992c-cf8e-421f-a948-6687ae6bdfa0",
+        "index": 1,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 44,
+              "width": 44,
+              "x": 0,
+              "y": 47
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "38c4e08f-78f6-494f-a3a1-61433498d7a6",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "Back",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "Back",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "faaa992c-cf8e-421f-a948-6687ae6bdfa0",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "faaa992c-cf8e-421f-a948-6687ae6bdfa0",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      },
+      {
+        "id": "3e17b65a-c17f-4390-9f73-5a0baac9da8f",
+        "index": 10,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 22,
+              "width": 22,
+              "x": 356,
+              "y": 775
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "8a13d531-7d2e-4dc5-ab03-45820b151c2b",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "More Info",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "More Info",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "3e17b65a-c17f-4390-9f73-5a0baac9da8f",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "3e17b65a-c17f-4390-9f73-5a0baac9da8f",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          },
+          {
+            "coordinates": {
+              "height": 22,
+              "width": 22,
+              "x": 356,
+              "y": 775
+            },
+            "description": "Tappable area of this element is too small",
+            "id": "a691c1f4-0568-4e19-bfca-1e9f99a92701",
+            "metadata": {
+              "actualWidth": 32,
+              "expectedWidth": 44,
+              "expectedHeight": 44,
+              "actualHeight": 22
+            },
+            "severity": {
+              "id": "5bd03118-5883-4f43-8831-1544af3afe7c",
+              "name": "Serious"
+            },
+            "accessibilityIdentifier": "More Info",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "More Info",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "Tappable area of this element is too small",
+            "issueType": {
+              "id": "69ab72aa-59be-43ad-b622-4bb686aace81",
+              "name": "Tappable Area"
+            },
+            "elementId": "3e17b65a-c17f-4390-9f73-5a0baac9da8f",
+            "name": "Tappable Area",
+            "nodeId": "3e17b65a-c17f-4390-9f73-5a0baac9da8f",
+            "problemTypeId": "69ab72aa-59be-43ad-b622-4bb686aace81"
+          }
+        ]
+      },
+      {
+        "id": "0d0eeb73-6d2f-47d2-afb0-b8fcc953e585",
+        "index": 9,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 26,
+              "width": 26,
+              "x": 320,
+              "y": 771
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "364e46cd-8288-439c-99e6-1046b6726977",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "share",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "share",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "0d0eeb73-6d2f-47d2-afb0-b8fcc953e585",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "0d0eeb73-6d2f-47d2-afb0-b8fcc953e585",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          },
+          {
+            "coordinates": {
+              "height": 26,
+              "width": 26,
+              "x": 320,
+              "y": 771
+            },
+            "description": "Tappable area of this element is too small",
+            "id": "34528c4a-767d-462f-9fd0-ad9a8df20e36",
+            "metadata": {
+              "actualWidth": 36,
+              "actualHeight": 26,
+              "expectedWidth": 44,
+              "expectedHeight": 44
+            },
+            "severity": {
+              "id": "5bd03118-5883-4f43-8831-1544af3afe7c",
+              "name": "Serious"
+            },
+            "accessibilityIdentifier": "share",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "share",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "Tappable area of this element is too small",
+            "issueType": {
+              "id": "69ab72aa-59be-43ad-b622-4bb686aace81",
+              "name": "Tappable Area"
+            },
+            "elementId": "0d0eeb73-6d2f-47d2-afb0-b8fcc953e585",
+            "name": "Tappable Area",
+            "nodeId": "0d0eeb73-6d2f-47d2-afb0-b8fcc953e585",
+            "problemTypeId": "69ab72aa-59be-43ad-b622-4bb686aace81"
+          }
+        ]
+      },
+      {
+        "id": "a653b71c-1403-4a7b-afd2-dc1cc202ee30",
+        "index": 7,
+        "issues": [
+          {
+            "coordinates": {
+              "height": 36,
+              "width": 90,
+              "x": 12,
+              "y": 766
+            },
+            "description": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "id": "aa10ee0c-f900-4c66-ae7b-146c5ad80052",
+            "metadata": null,
+            "severity": {
+              "id": "3c68eb41-9227-481d-8eec-9dc8956b19c4",
+              "name": "Critical"
+            },
+            "accessibilityIdentifier": "logo",
+            "viewIdResourceName": null,
+            "accessibilityLabel": "logo",
+            "className": null,
+            "elementType": "Button",
+            "contentDescription": null,
+            "summary": "This element is interactable but is not accessible for assistive technologies that depend on the accessibility tree (i.e., screen readers, voice control).",
+            "issueType": {
+              "id": "724b3853-33d3-47b9-80bd-2401abcd5ad4",
+              "name": "Accessibility Not Enabled"
+            },
+            "elementId": "a653b71c-1403-4a7b-afd2-dc1cc202ee30",
+            "name": "Accessibility Not Enabled",
+            "nodeId": "a653b71c-1403-4a7b-afd2-dc1cc202ee30",
+            "problemTypeId": "724b3853-33d3-47b9-80bd-2401abcd5ad4"
+          }
+        ]
+      }
+    ],
+    "rootBounds": {
+      "height": 844,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "total": 12
+  }
+]
