@@ -22,16 +22,7 @@ BeforeAll(async () => {
     
 });
 
-//const EvincedWdioMobileSdk = new EvincedWdioMobileSdk();
-const evincedWdioSdk = new EvincedWdioMobileSdk();
-//EvincedWdioMobileSdk.setDevMode(true);
-const isLicenseValid = evincedWdioSdk.setupCredentials(
-    'a51a27b1-d23f-96ea-5d12-0135e2700591', 
-    'AudUQWQOg8MsxYPoBjyDosqYKTBaaomB'
-);
-if (!isLicenseValid) {
-    console.log("EVINCED AUTH FAILED");
-}
+
 
 Given(/^I am on the (\w+) screen$/, async (page) => {
     await pages[page].open();
