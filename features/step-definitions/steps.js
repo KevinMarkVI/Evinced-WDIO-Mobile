@@ -8,10 +8,11 @@ import stationsPage from '../pageobjects/stations-page';
 const pages = {
     stations: stationsPage
 }
+const evincedWdioSdk = new EvincedWdioMobileSdk();
 
 BeforeAll(async () => {
 
-    const evincedWdioSdk = new EvincedWdioMobileSdk();
+
     const isLicenseValid = evincedWdioSdk.setupCredentials(
         'EVINCED_SERVICE_ID', 
         'EVINCE_API_KEY'
